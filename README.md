@@ -8,8 +8,8 @@
 
 ---
 <p align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/Maxviz)
-  </p>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Maxviz)
+</p>
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxv1z&show_icons=true&theme=bear" width="400">
