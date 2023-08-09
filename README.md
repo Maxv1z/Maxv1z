@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-![](https://leetcard.jacoblin.cool/Maxviz?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Maxviz)
   </p>
 ---
 <p align="center">
