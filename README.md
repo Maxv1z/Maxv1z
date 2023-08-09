@@ -7,7 +7,9 @@
 </ul>
 
 ---
-![Leetcode Stats](https://leetcard.jacoblin.cool/Maxviz)
+<p align="center">
+![](https://leetcard.jacoblin.cool/Maxviz?ext=heatmap)
+  </p>
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxv1z&show_icons=true&theme=bear" width="400">
