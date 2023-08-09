@@ -1,12 +1,8 @@
 <ul align="center">
-  ### Hi there ###
-
+  ##Hi there##
   <li> 👋 My name is Max </li> 
   <li> 🌱 I’m currently learning React from react course on Udemy </li> 
-  <li> 🤔 I’m looking for help with React </li>
 </ul>
-
----
   ![Leetcode Stats](https://leetcard.jacoblin.cool/Maxviz)
 ---
 <p align="center">
