@@ -2,7 +2,6 @@
   <li> 👋 My name is Max </li> 
   <li> 🌱 I’m currently learning React from react course on Udemy </li> 
 </ul>
----
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/Maxviz)
 ---
